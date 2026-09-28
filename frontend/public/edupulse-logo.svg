@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 905 242" fill="none" role="img" aria-labelledby="title">
+  <title id="title">EduPulse — Understand, Practice, Improve</title>
+  <defs>
+    <linearGradient id="violet" x1="33" y1="202" x2="280" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5944E9"/><stop offset=".52" stop-color="#9B63FF"/><stop offset="1" stop-color="#C18CFF"/>
+    </linearGradient>
+    <linearGradient id="word" x1="529" y1="39" x2="783" y2="151" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C968F0"/><stop offset="1" stop-color="#7755EF"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="310" height="230" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="3" result="blur"/><feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <g filter="url(#glow)" stroke="url(#violet)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 62 204 12l55 50-54 17-55-17Z" fill="url(#violet)" stroke-width="5"/>
+    <path d="m150 62 55 17 54-17-4 18c-26 21-74 21-100 0l-5-18Z" fill="#7852ed" stroke-width="4"/>
+    <path d="M204 80v25" stroke-width="4"/><circle cx="204" cy="109" r="5" fill="#ba8aff" stroke="none"/>
+    <path d="m98 48 13 17M67 69l19 12M276 48l-13 17M307 69l-19 12" stroke-width="6"/>
+    <path d="M28 91c37-36 92-44 144-11v121c-42-30-96-32-144-3V91Z" fill="#f8f8ff" stroke-width="9"/>
+    <path d="M316 91c-37-36-92-44-144-11v121c42-30 96-32 144-3V91Z" fill="#f8f8ff" stroke-width="9"/>
+    <path d="M172 80v121" stroke-width="8"/>
+    <path d="M50 107c27-15 53-18 76-11M50 127c25-12 47-14 67-10M292 107c-27-15-53-18-76-11M292 127c-25-12-47-14-67-10" stroke="#c6bdff" stroke-width="5"/>
+  </g>
+  <path d="M59 145h52l13-20 16 41 20-65 17 49 15-20h45" stroke="#101c31" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="350" y="137" fill="#F6F7FF" font-family="Arial, Helvetica, sans-serif" font-size="99" font-weight="700" letter-spacing="-5">Edu</text>
+  <text x="521" y="137" fill="url(#word)" font-family="Arial, Helvetica, sans-serif" font-size="99" font-weight="700" letter-spacing="-5">Pulse</text>
+  <text x="354" y="183" fill="#D0D6E4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="500" letter-spacing="3.7">UNDERSTAND</text>
+  <path d="M517 169v19" stroke="#9B63FF" stroke-width="3"/>
+  <text x="545" y="183" fill="#D0D6E4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="500" letter-spacing="3.7">PRACTICE</text>
+  <path d="M680 169v19" stroke="#9B63FF" stroke-width="3"/>
+  <text x="708" y="183" fill="#D0D6E4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="500" letter-spacing="3.7">IMPROVE</text>
+</svg>
