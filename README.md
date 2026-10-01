@@ -102,3 +102,4 @@ The actual sample flow can also be exercised through the browser with installed 
 
 New functionality is covered by `backend/tests/test_academy.py`. Run `python -m unittest discover -s tests -v` from `backend/` and `npm run build` from `frontend/`.
 # EDUPULSE
+# EDUPULSE
